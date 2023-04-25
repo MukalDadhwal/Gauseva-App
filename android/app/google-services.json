@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "930654447814",
+    "firebase_url": "https://shop-app-6c909-default-rtdb.firebaseio.com",
+    "project_id": "shop-app-6c909",
+    "storage_bucket": "shop-app-6c909.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930654447814:android:6be88d1c99edc4677e0fc7",
+        "android_client_info": {
+          "package_name": "com.example.gauseva_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930654447814-anccmm3adr1l5sqp24c6n2ve37n1cb09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRjv5ik02kUcmonBf1m7aSHbsfzl0i4so"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930654447814-anccmm3adr1l5sqp24c6n2ve37n1cb09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
